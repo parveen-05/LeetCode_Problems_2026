@@ -9,4 +9,32 @@ This repository contains my solutions to LeetCode problems.
 - Goal: Improve Data Structures and Algorithms skills
 - Daily Problem Solving Practice
 
-## Repository Structure
+
+## Progress
+
+| Difficulty | Solved |
+|------------|---------|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+| Total | 0 |
+
+## Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Heaps
+- Hashing
+- Graphs
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Greedy Algorithms
+
+## Naming Convention
+
