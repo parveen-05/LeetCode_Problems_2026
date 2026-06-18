@@ -14,8 +14,8 @@ This repository contains my solutions to LeetCode problems.
 
 | Difficulty | Solved |
 |------------|---------|
-| Easy | 0 |
-| Medium | 0 |
+| Easy | 3 |
+| Medium | 1 |
 | Hard | 0 |
 | Total | 0 |
 
