@@ -36,5 +36,20 @@ This repository contains my solutions to LeetCode problems.
 - Dynamic Programming
 - Greedy Algorithms
 
-## Naming Convention
+
+
+## LeetCode Profile
+
+Add your profile link here:
+
+
+
+## Goal
+
+- Solve problems consistently.
+- Strengthen problem-solving skills.
+- Prepare for coding interviews and placements.
+
+---
+
 
